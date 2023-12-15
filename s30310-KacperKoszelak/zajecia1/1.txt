@@ -53,7 +53,8 @@ Odpowiedź "wylogowało mnie" jest błędna. Nie. Nie wylogowało. Szukaj dalej.
 
 14. A teraz co się stanie po: Alt+F1 lub ALT+F2 lub ALT+F7 (na starszych 
 linuxach)
-  -kombinacje te pozwalają na przełączanie się pomiędzy terminalami
+  -kombinacje te pozwalają na przełączanie się pomiędzy 6 terminalami i 
+   jednym GUI
 
 
 
